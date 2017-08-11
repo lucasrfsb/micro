@@ -1,0 +1,22 @@
+1. São sistemas que não tem um propósito geral, como um notebook, e sim um específico. 
+São sistemas criados para executar uma função específica e pré-determinada, totalmente dedicado ao dispositivo que controla
+
+2. São sistemas que trabalham com o funcionamento de microprocessadores. Eles são a unidade central do sistema, o cérebro do computador.
+ Portanto não há um hardware dedicado para a aplicação que deseja, e sim um microprocessador, que é um componente físico que não irá mudar
+ caso por exemplo se deseje fazer uma atualização(ao contrário do que seria caso houvesse um hardware dedicado). O que irá mudar sempre é o software,
+ o programa de funcionamento do sistema
+
+3. a) Em um carro são encontrados diversos processadores.
+   Exemplos de aplicações são: acionamento do sistema de airbags, ar-condicionado do carro, fechamento automático das janelas quando sai do carro, direção elétrica, etc.
+   b) Em aparelhos televisores é indiscutível a preswença de microcontroladores internos para seu controle. 
+   Numa máquina de lavar também, por exemplo, o timing de limpeza, o uso de sabão para cada tipo de limpeza que pode ser selecionada pelo usuário, entre outras
+   c) Com o uso de microcontroladores torna-se prática a automação. Podem ser usadas várias CPUs ou apenas uma, centralizada. 
+   Se parar pra pensar quase qualquer aplicação de microcontroladores já contribui para algum tipo de processso de automatização ou automação, 
+   além de ele se tornar mais rápido e de mais fácil manutenção
+
+4. As possíveis são a de Harvard e a de Von Neumann. 
+A de Harvard trabalha mais rápido, pois pode acessar o banco de dados e a linha de códio simultaneamente. 
+Já a de Von Neumann acessa um ou outro num instante.
+
+5. Por ser programado em baixo nível pode ter um processamento mais rápido. Possui diversos modos de baixo consumo de energia. 
+Outra característica importante é a de alta versatilidade, são muitas opções de desenvolvimento de projeto com a MSP430.
