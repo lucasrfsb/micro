@@ -1,5 +1,5 @@
 # micro
-microconrollers and microprocessors repository - subject in UNB - FGA
+microcontrollers and microprocessors repository - subject in UNB - FGA
 
 Nome: Lucas Rocha Figueredo Santana e Barros
 
